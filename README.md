@@ -1,5 +1,3 @@
 - 👋 Hi, I’m @GhostlyRAM 👻🐏 
-- 👀 I’m interested in Cryptography, AI, game creation,Web Dev and art.
-- 🌱 I’m currently learning through an college IT course and my own.
-- 💞️ I’m looking to collaborate on: not too sure.
-- 📫 How to reach me: Not ready for social stuff.
+- 👀 I’m interested in Cryptography, AI, Game Creation, Web Dev and Art.
+- 🌱 I’m currently learning through a college IT course and some stuff on my own, such as Javascript.
